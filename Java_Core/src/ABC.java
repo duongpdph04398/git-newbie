@@ -7,5 +7,6 @@ public class ABC {
   static {
     persons.add("Bill Gates");
     persons.add("Steve Jobs");
+	persons.add("Dinh Duong");
   }
 }
